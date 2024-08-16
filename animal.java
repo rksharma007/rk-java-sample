@@ -25,5 +25,7 @@ class Main {
     myAnimal.animalSound();
     myPig.animalSound();
     myDog.animalSound();
+
+    System.out.println("Changed something....");
   }
 }
